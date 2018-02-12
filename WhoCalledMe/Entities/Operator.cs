@@ -1,4 +1,4 @@
-﻿namespace WhoCalledMe.Models
+﻿namespace WhoCalledMe.Entities
 {
     public class Operator
     {
