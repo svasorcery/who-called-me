@@ -1,0 +1,462 @@
+[
+    {
+        "regionregionId": 0,
+        "name": "Российская Федерация",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 1,
+        "name": "Республика Адыгея",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 2,
+        "name": "Республика Башкортостан",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 3,
+        "name": "Республика Бурятия",
+        "timeZoneSpan": 5
+    },
+    {
+        "regionId": 4,
+        "name": "Республика Алтай",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 5,
+        "name": "Республика Дагестан",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 6,
+        "name": "Республика Ингушетия",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 7,
+        "name": "Кабардино-Балкарская Республика",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 8,
+        "name": "Республика Калмыкия",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 9,
+        "name": "Карачаево-Черкесская Республика",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 10,
+        "name": "Республика Карелия",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 11,
+        "name": "Республика Коми",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 12,
+        "name": "Республика Марий Эл",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 13,
+        "name": "Республика Мордовия",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 14,
+        "name": "Республика Саха (Якутия)",
+        "timeZoneSpan": 6
+    },
+    {
+        "regionId": 15,
+        "name": "Республика Северная Осетия - Алания",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 16,
+        "name": "Республика Татарстан",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 17,
+        "name": "Республика Тыва",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 18,
+        "name": "Удмуртская Республика",
+        "timeZoneSpan": 1
+    },
+    {
+        "regionId": 19,
+        "name": "Республика Хакасия",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 20,
+        "name": "Чеченская Республика",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 21,
+        "name": "Республика Чувашия",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 22,
+        "name": "Алтайский край",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 23,
+        "name": "Краснодарский край",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 24,
+        "name": "Красноярский край",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 25,
+        "name": "Приморский край",
+        "timeZoneSpan": 7
+    },
+    {
+        "regionId": 26,
+        "name": "Ставропольский край",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 27,
+        "name": "Хабаровский край",
+        "timeZoneSpan": 7
+    },
+    {
+        "regionId": 28,
+        "name": "Амурская область",
+        "timeZoneSpan": 6
+    },
+    {
+        "regionId": 29,
+        "name": "Архангельская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 30,
+        "name": "Астраханская область",
+        "timeZoneSpan": 1
+    },
+    {
+        "regionId": 31,
+        "name": "Белгородская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 32,
+        "name": "Брянская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 33,
+        "name": "Владимирская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 34,
+        "name": "Волгоградская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 35,
+        "name": "Вологодская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 36,
+        "name": "Воронежская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 37,
+        "name": "Ивановская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 38,
+        "name": "Иркутская область",
+        "timeZoneSpan": 5
+    },
+    {
+        "regionId": 39,
+        "name": "Калининградская область",
+        "timeZoneSpan": -1
+    },
+    {
+        "regionId": 40,
+        "name": "Калужская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 41,
+        "name": "Камчатская область",
+        "timeZoneSpan": 9
+    },
+    {
+        "regionId": 42,
+        "name": "Кемеровская область",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 43,
+        "name": "Кировская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 44,
+        "name": "Костромская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 45,
+        "name": "Курганская область",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 46,
+        "name": "Курская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 47,
+        "name": "Ленинградская область и г. Санкт-Петербург",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 48,
+        "name": "Липецкая область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 49,
+        "name": "Магаданская область",
+        "timeZoneSpan": 7
+    },
+    {
+        "regionId": 50,
+        "name": "Московская область и г. Москва",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 51,
+        "name": "Мурманская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 52,
+        "name": "Нижегородская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 53,
+        "name": "Новгородская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 54,
+        "name": "Новосибирская область",
+        "timeZoneSpan": 3
+    },
+    {
+        "regionId": 55,
+        "name": "Омская область",
+        "timeZoneSpan": 3
+    },
+    {
+        "regionId": 56,
+        "name": "Оренбургская область",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 57,
+        "name": "Орловская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 58,
+        "name": "Пензенская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 590,
+        "name": "Пермская область",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 60,
+        "name": "Псковская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 61,
+        "name": "Ростовская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 62,
+        "name": "Рязанская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 63,
+        "name": "Самарская область",
+        "timeZoneSpan": 1
+    },
+    {
+        "regionId": 64,
+        "name": "Саратовская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 65,
+        "name": "Сахалинская область",
+        "timeZoneSpan": 8
+    },
+    {
+        "regionId": 66,
+        "timeZoneSpan": 2,
+        "name": "Свердловская область"
+    },
+    {
+        "regionId": 67,
+        "name": "Смоленская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 68,
+        "name": "Тамбовская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 69,
+        "name": "Тверская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 70,
+        "name": "Томская область",
+        "timeZoneSpan": 3
+    },
+    {
+        "regionId": 71,
+        "name": "Тульская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 72,
+        "name": "Тюменская область",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 73,
+        "name": "Ульяновская область",
+        "timeZoneSpan": 1
+    },
+    {
+        "regionId": 74,
+        "name": "Челябинская область",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 75,
+        "name": "Забайкальский край",
+        "timeZoneSpan": 6
+    },
+    {
+        "regionId": 76,
+        "name": "Ярославская область",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 77,
+        "name": "г. Москва",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 78,
+        "name": "г. Санкт-Петербург",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 79,
+        "name": "Еврейская автономная область",
+        "timeZoneSpan": 7
+    },
+    {
+        "regionId": 80,
+        "name": "Агинский Бурятский автономный округ",
+        "timeZoneSpan": 5
+    },
+    {
+        "regionId": 81,
+        "name": "Коми-Пермяцкий автономный округ",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 82,
+        "name": "Корякский автономный округ",
+        "timeZoneSpan": 9
+    },
+    {
+        "regionId": 83,
+        "name": "Ненецкий автономный округ",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 84,
+        "name": "Таймырский (Долгано-Ненецкий) автономный округ",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 85,
+        "name": "Усть-Ордынский Бурятский автономный округ",
+        "timeZoneSpan": 5
+    },
+    {
+        "regionId": 86,
+        "name": "Ханты-Мансийский автономный округ - Югра",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 87,
+        "name": "Чукотский автономный округ",
+        "timeZoneSpan": 9
+    },
+    {
+        "regionId": 88,
+        "name": "Эвенкийский автономный округ",
+        "timeZoneSpan": 4
+    },
+    {
+        "regionId": 89,
+        "name": "Ямало-Ненецкий автономный округ",
+        "timeZoneSpan": 2
+    },
+    {
+        "regionId": 90,
+        "name": "Республика Крым и г. Севастополь",
+        "timeZoneSpan": 0
+    },
+    {
+        "regionId": 91,
+        "name": "г. Байконур",
+        "timeZoneSpan": 3
+    }
+]
